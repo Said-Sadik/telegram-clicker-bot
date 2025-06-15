@@ -1,0 +1,8 @@
+python-telegram-bot
+requests
+aiohttp
+python-dotenv
+pandas
+schedule
+pyTelegramBotAPI
+python-3.11.9
